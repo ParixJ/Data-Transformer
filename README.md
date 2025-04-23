@@ -24,7 +24,7 @@ python transformer_main.py
 ```
 
 ### You'll be guided to:
-1. Select a dataset file (`CSV`)
+1. Select a dataset file (`CSV`,`XML`,`PARQUET`,`JSON`)
 2. Choose transformation options from a menu
 3. Apply and preview results
 4. Save your transformed dataset wherever you want
