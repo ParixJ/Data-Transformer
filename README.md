@@ -41,6 +41,8 @@ pip install -r requirements.txt
 
 Minimal `requirements.txt`:
 ```txt
+scikit-learn
+tk
 pandas
 numpy
 ```
